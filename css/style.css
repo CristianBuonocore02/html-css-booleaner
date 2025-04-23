@@ -94,6 +94,24 @@ table thead {
     font-size: large;
 }
 
-.scritta-evidenziata2 {
+.sezione4{
+    color: #8b8b8b;
+    margin-left: 8px ;
+    margin-bottom: 10px;
+}
+
+.scritta-evi denziata2 {
     background-color: #ffff00;
+}
+
+.imgsfondo {
+    position: relative;
+}
+
+.testo-sovrapposto {
+    margin: 10px;
+    position: absolute;
+    color: white;
+    z-index: 1;
+    font-size: xx-large;
 }
